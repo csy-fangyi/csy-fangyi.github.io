@@ -4,7 +4,7 @@ title: 《鸟哥的 Linux 私房菜》
 date: 2012-12-20
 description: 鸟哥的Linux私房菜
 img: linux.jpg
-tags: [Linux, 生活]
+tags: [Linux]
 ---
 
 ##前言
