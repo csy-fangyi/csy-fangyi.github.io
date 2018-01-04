@@ -2,7 +2,7 @@ title: Hello, world! I'm David Freeman
 description: > Strength and Honor. Shadow and Dust.
 permalink: ':title/'
 baseurl: "/"
-url: "http://fangyi-chuangcache.github.io"
+url: "fangyi-chuangcache.github.io"
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
