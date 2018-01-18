@@ -3,15 +3,15 @@ description: Strength and Honor. Shadow and Dust.
 permalink: ':title/'
 baseurl: "/"
 url: "fangyi-chuangcache.github.io"
-site-twitter: #if your site has a twitter account, enter it here
+site-twitter: fangyiJoe
 
-# Author Settings
+
 author: fangyiJoe
 author-img: slam.JPG
 about-author: "Strength and Honor. Shadow and Dust."
 github: fangyi-chuangcache
 
-# Build Settings
+
 markdown: kramdown
 plugins:
   - jekyll-sitemap
