@@ -5,12 +5,10 @@ baseurl: "/"
 url: "fangyi-chuangcache.github.io"
 site-twitter: fangyiJoe
 
-
 author: fangyiJoe
 author-img: slam.JPG
 about-author: "Strength and Honor. Shadow and Dust."
 github: fangyi-chuangcache
-
 
 markdown: kramdown
 plugins:
