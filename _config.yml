@@ -2,13 +2,13 @@ title: 20160926
 description: Strength and Honor. Shadow and Dust.
 permalink: ':title/'
 baseurl: "/"
-url: "fangyi-chuangcache.github.io"
+url: "csy-fangyi.github.io"
 site-twitter: fangyiJoe
 
 author: fangyiJoe
 author-img: slam.JPG
 about-author: "Strength and Honor. Shadow and Dust."
-github: fangyi-chuangcache
+github: csy-fangyi
 
 markdown: kramdown
 plugins:
